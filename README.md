@@ -62,7 +62,9 @@ features among all features in the dataset so that it produces more accuracy.
 
 ## Screenshot of User Interface made with streamlit library of python
 
+![ProjectUI](https://github.com/Manishasharma666/Parkinson_Diseases_Prediction/assets/102870139/ccf53fd4-d4fc-4396-be99-d6a3978b1058)
 
+![P](https://github.com/Manishasharma666/Parkinson_Diseases_Prediction/assets/102870139/97d202d8-47cc-4df0-9c7b-62cd5362fca5)
 
 
 
